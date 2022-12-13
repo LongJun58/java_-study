@@ -49,7 +49,7 @@ public class SmallChangeSysOOP {
                     quit(); //退出
                 }
             }
-        } while (loop);
+        } while (loop );
     }
 
     //零钱通的明细

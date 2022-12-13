@@ -16,7 +16,7 @@ public class SmallChangeSys {
     public static void main(String[] args) {
         //先定义布尔变量
         boolean loop = true;
-        int input = 0;
+        int input;
         String detail = ""; //记录明细
         String amountDetail = ""; // 总明细
         double money = 0.0; //钱
