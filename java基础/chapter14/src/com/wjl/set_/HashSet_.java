@@ -4,6 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class HashSet_ {
+    @SuppressWarnings("all")
     public static void main(String[] args) {
         Set hashSet = new HashSet();
         System.out.println(hashSet.add("john"));
