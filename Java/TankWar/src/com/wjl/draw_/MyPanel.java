@@ -8,5 +8,7 @@ public class MyPanel extends JPanel {
     public void paint(Graphics g) {
         super.paint(g); //调用父类方法
         g.drawOval(100,200,300,300 );  //画圆
+
+        //
     }
 }
